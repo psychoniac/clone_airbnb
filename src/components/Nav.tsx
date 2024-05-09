@@ -15,7 +15,7 @@ export default function Nav() {
         </Link>
 
         <ul className="flex items-center justify-center gap-4">
-            <li className="font-blod text-[#484848]">
+            <li className="font-bold text-[#484848]">
                 <a href="#">Logements</a>
             </li>
             <li className="text-[#484848]">
